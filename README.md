@@ -1,9 +1,7 @@
-
-````markdown
-# 🚀 Script
-
+## 🚀 Script
+```lua
 loadstring(game:HttpGet("https://tokken.gay/loader"))()
-````
+```
 
 ---
 
